@@ -1,0 +1,8 @@
+﻿                            <!-- {CID} -->
+                            <div class="col-lg-{LG} col-xs-{XS}">
+                                <div class="form-group">
+                                    <asp:LinkButton runat="server" ID="btn{EID}" class="btn btn-primary" ClientIDMode="Static"><i class="fa fa-{PH}" aria-hidden="true"></i>&nbsp;{CID}</asp:LinkButton>
+                                </div>
+                            </div>
+
+

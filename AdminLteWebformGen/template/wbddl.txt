@@ -1,0 +1,13 @@
+﻿                            <!-- {CID} -->
+                            <div class="col-lg-{LG} col-xs-{XS}">
+                                <div class="form-group">
+                                    <label>{CID}</label>
+                                    <br />
+                                        <asp:DropDownList ID="ddl{EID}" runat="server" class="form-control">
+                                        </asp:DropDownList>
+                                    <br />
+                                    <code>{PH}</code>
+                                </div>
+                            </div>
+
+

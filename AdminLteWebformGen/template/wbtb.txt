@@ -1,0 +1,10 @@
+﻿                            <!-- {CID} -->
+                            <div class="col-lg-{LG} col-xs-{XS}">
+                                <div class="form-group">
+                                    <label>{CID}</label>
+                                    <br />
+                                    <asp:TextBox {TYPE}  placeholder="{PH}" ClientIDMode="Static" class="form-control" ID="txt{EID}" runat="server"  {REQ}></asp:TextBox>
+                                </div>
+                            </div>
+
+
